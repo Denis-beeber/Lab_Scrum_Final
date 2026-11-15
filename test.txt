@@ -1,2 +1,6 @@
 12234test
+<<<<<<< HEAD
 sdsff
+=======
+rebase
+>>>>>>> a5ea983 (Зміна додано слово rebase)
